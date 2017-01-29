@@ -1,0 +1,29 @@
+{
+  "name": "fbmessages",
+  "version": "0.1.0",
+  "description": "Builders for messages on Facebook Messenger Bot Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aluxian/node-fbmessages.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bots",
+    "builders",
+    "factories"
+  ],
+  "author": "Alexandru Rosianu <rosian_alex@yahoo.com> (http://www.aluxian.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aluxian/node-fbmessages/issues"
+  },
+  "homepage": "https://github.com/Aluxian/node-fbmessages#readme",
+  "dependencies": {
+    "is-url": "1.2.2"
+  }
+}
